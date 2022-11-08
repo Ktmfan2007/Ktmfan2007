@@ -1,0 +1,8 @@
+#4.feladat: 50 és 100 között minden 3. szám kiíratása.
+"""
+x = 50
+while x < 101:
+    print(x)
+    
+    x += 3
+"""   
